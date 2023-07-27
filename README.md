@@ -1,4 +1,4 @@
-# new_Assign
+# README.md
 https://jaitensahu.github.io/new_Assign/
 
 ![title](https://github.com/jaitensahu/new_Assign/assets/127736781/8dee8363-5f93-4b2d-bb65-dd46888e54e9)   This code will change the title of the page
